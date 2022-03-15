@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 I'm Benjamin Banwart and I enjoy building software.
 <!--
 **BenjaminBanwart/BenjaminBanwart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
