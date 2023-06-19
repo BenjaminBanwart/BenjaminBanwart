@@ -2,7 +2,9 @@
 
 **`Software Engineer (Front-End/Back-End/Database)`**
 
-I'm a full-stack software engineer and graduate from Kansas State University's Full-Stack Software Development Certificate Program. In my time as a developer I've created things such as full-stack web applications with CRUD functionality, eCommerce integration applications, and APIs, all the way to browser-based video games and music search engines.
+I'm a full-stack software engineer and graduate from Kansas State University's Full-Stack Software Development Certificate Program. In my time as a developer I've created things such as full-stack web applications with CRUD functionality, eCommerce integration applications, and APIs, all the way to browser-based video games and music search engines.  
+
+I work at Miller's Professional Imaging as a Software Engineer.
 
 ---
 
