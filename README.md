@@ -4,7 +4,7 @@
 
 I'm a full-stack software engineer and graduate from Kansas State University's Full-Stack Software Development Certificate Program. In my time as a developer I've created things such as full-stack web applications with CRUD functionality, eCommerce integration applications, and APIs, all the way to browser-based video games and music search engines.  
 
-I am a Software Engineer at Miller's Professional Imaging/Mpix. Some of the projects that I work on include internal automated console applications for order entry and email reports, internal API's, and both the server side and UI side of modern web applications. Miller's uses a wide variety of development technologies including: .NET, JavaScript, React, Angular, MS SQL, and MongoDB which allows me to thrive in my passion for continuous learning.
+I work at Miller's Professional Imaging/Mpix. Some of the projects that I work on include internal automated console applications for order entry and email reports, internal API's, and both the server side and UI side of modern web applications. Miller's uses a wide variety of development technologies including: .NET, JavaScript, React, Angular, MS SQL, and MongoDB which allows me to thrive in my passion for continuous learning.
 
 ---
 
