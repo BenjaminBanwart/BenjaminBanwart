@@ -2,9 +2,23 @@
 
 **`Software Engineer (Front-End/Back-End/Database)`**
 
-I'm a full-stack software engineer and graduate from Kansas State University's Full-Stack Software Development Certificate Program. In my time as a developer I've created things such as full-stack web applications with CRUD functionality, eCommerce integration applications, and APIs, all the way to browser-based video games and music search engines.  
+I am a full-stack software engineer with a strong background in web development and a solid understanding of the eCommerce landscape. Currently employed at Miller's Professional Imaging/Mpix, I have honed my skills by contributing to a diverse range of projects.
 
-I work at Miller's Professional Imaging/Mpix. Some of the projects that I work on include internal automated console applications for order entry and email reports, internal API's, and both the server side and UI side of modern web applications. Miller's uses a wide variety of development technologies including: .NET, JavaScript, React, Angular, MS SQL, and MongoDB which allows me to thrive in my passion for continuous learning.
+My expertise spans the creation of robust full-stack web applications, eCommerce integration solutions, console applications, and APIs. Beyond conventional development, I've delved into the realm of browser-based video games and innovative music search engines as personal projects. This versatility reflects my commitment to exploring and mastering emerging and exciting technologies.
+
+Within the dynamic environment of Miller's, I actively contribute to various projects, including the development and maintenence of internal automated console applications for efficient order entry, data processing, and email reporting. My greatest responsibilities lie in crafting internal APIs and developing/maintaining the full stack of modern web applications.
+
+I thrive on continuous learning and adaptability, crucial qualities given the varied technologies employed at Miller's. My proficiency includes working with .NET, TypeScript, Angular, React, and MS SQL. This diverse toolkit not only underscores my adaptability but also fuels my passion for staying at the forefront of technological advancements.
+
+As a graduate from Kansas State University's Full-Stack Software Development Certificate Program, I bring a solid foundation, an insatiable curiosity, and a commitment to excellence in every project I undertake.
+
+One of the most gratifying projects in my career has been spearheading the development of Miller's internal tooling suite. Collaborating with another skilled developer, we undertook the challenge of unifying and modernizing disparate tools scattered across multiple antiquated applications. The result? An intricate web-based tool suite, a central "hub" website designed for seamless navigation between workflow reliant tools, effortless onboarding, and streamlined code maintenance.
+
+This innovative system is the backbone of daily operations for many of the teams at Miller's, catering to the unique needs of Customer Service, Accountants, and various production teams. It's a transformative solution that brings efficiency to the core of our workflow.
+
+The tool suite's significance is further highlighted by its direct impact on the entire Miller's team. Feature requests are submitted from colleagues, shaping the evolution of the suite in real-time. The dynamic nature of this project, coupled with its direct influence on our colleagues' work, makes it uniquely exciting and gratifying. The constant feedback loop keeps us innovating, ensuring that the tool suite remains at the forefront of meeting evolving needs.
+
+Being at the forefront of this project has not only sharpened my technical skills but has also instilled in me a deep sense of satisfaction, knowing that our work directly enhances the daily experiences of Miller's professionals.
 
 ---
 
