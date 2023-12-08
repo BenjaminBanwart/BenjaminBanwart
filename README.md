@@ -2,7 +2,7 @@
 
 **`Software Engineer (Front-End/Back-End/Database)`**
 
-I am a full-stack software engineer with a strong background in web development and a solid understanding of the eCommerce landscape. Currently employed at Miller's Professional Imaging/Mpix, I have honed my skills by contributing to a diverse range of projects.
+I'm a full-stack software engineer with a strong background in web development and a solid understanding of the eCommerce landscape. Currently employed at Miller's Professional Imaging/Mpix, I've honed my skills by contributing to a diverse range of projects.
 
 My expertise spans the creation of robust full-stack web applications, eCommerce integration solutions, console applications, and APIs. Beyond conventional development, I've delved into the realm of browser-based video games and innovative music search engines as personal projects. This versatility reflects my commitment to exploring and mastering emerging and exciting technologies.
 
