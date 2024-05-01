@@ -1,4 +1,4 @@
-# 🇺🇸 Benjamin Banwart
+#  🕹️ Benjamin Banwart
 
 **`Software Engineer (Front-End/Back-End/Database)`**
 
@@ -36,5 +36,5 @@ The system's significance is further highlighted by its direct impact on the ent
 
 <a href="https://benjaminbanwart.github.io/Personal_Portfolio/" style="padding-top:30px;">
 <img align="left" alt="Flask" width="40px" src="https://github.com/BenjaminBanwart/Personal_Portfolio/blob/main/images/benji-icon-aqua.png" />
-Click here for my personal website!
+Personal website
 </a>
