@@ -2,11 +2,11 @@
 
 **`Software Engineer (Front-End/Back-End/Database)`**
 
-Full-stack software engineer with a strong background in web development and a solid understanding of the eCommerce landscape. Currently employed at Miller's Professional Imaging/Mpix as one of two engineers responsible for tooling.
+Full-stack software engineer with a strong background in web development and a history of working in the eCommerce landscape. Currently employed at Miller's Professional Imaging/Mpix as one of two engineers responsible for tooling.
 
-My expertise spans the creation of robust full-stack web applications, eCommerce integration solutions, console applications, and APIs. Beyond conventional web development, I've delved into the realms of browser-based video games and music search engines as personal projects.
+Some of the things I've written include robust full-stack web applications, internal tooling applications, eCommerce integration solutions, automated cron jobs, and business APIs. I've also delved into the realm of browser-based video games and music search engines as some of my personal projects.
 
-Within the dynamic environment of Miller's, I actively contribute to various projects, including the development and maintenance of internal applications for efficient order entry, data processing, and email reporting. My greatest responsibilities lie in crafting internal APIs and developing/maintaining the full stack of modern web applications that comprise a tool suite. I work with .NET, TypeScript, Angular, React, and MS SQL. This toolkit not only underscores my adaptability but also fuels my passion for staying at the forefront of technological advancements.
+At Miller's, I actively contribute to various projects, including the development and maintenance of internal applications for efficient order entry, data processing, workplace-shared business APIs, and automated email reporting applications. My greatest responsibilities lie in developing/maintaining the full stack of modern web applications that comprise an ever-growing tooling suite. I work with .NET, TypeScript, Angular, React, and MS SQL.
 
 One of the most notable projects in my career has been spearheading the development of Miller's internal tooling suite. Collaborating with another developer, we modernized disparate tools into a web-based suite that serves as the backbone for Customer Service, Accountants, business management, and production teams, enhancing efficiency across the company. Colleagues' feature requests shape the suite in real-time, creating a gratifying feedback loop that drives continuous innovation.
 
