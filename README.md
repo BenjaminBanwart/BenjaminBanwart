@@ -33,6 +33,6 @@ One of the most notable projects in my career has been spearheading the developm
 #
 
 <a href="https://benjaminbanwart.github.io/Personal_Portfolio/" style="padding-top:30px;">
-<img align="left" alt="Flask" width="40px" src="https://github.com/BenjaminBanwart/Personal_Portfolio/blob/main/images/benji-icon-aqua.png" />
+<img align="left" alt="Flask" width="40px" src="https://github.com/BenjaminBanwart/Personal_Portfolio/blob/main/assets/images/benji-icon-aqua.png" />
 Personal website
 </a>
