@@ -4,8 +4,6 @@
 
 Full-stack software engineer with a strong background in web development and a history of working in the eCommerce landscape. Currently employed at Miller's Professional Imaging/Mpix as one of two engineers responsible for tooling.
 
-Some of the things I've written include robust full-stack web applications, internal tooling applications, eCommerce integration solutions, automated cron jobs, and business APIs. I've also delved into the realm of browser-based video games and music search engines as some of my personal projects.
-
 At Miller's, I actively contribute to various projects, including the development and maintenance of internal applications for efficient order entry, data processing, workplace-shared business APIs, and automated email reporting applications. My greatest responsibilities lie in developing/maintaining the full stack of modern web applications that comprise an ever-growing tooling suite. I work with .NET, TypeScript, Angular, React, and MS SQL.
 
 One of the most notable projects in my career has been spearheading the development of Miller's internal tooling suite. Collaborating with another developer, we modernized disparate tools into a web-based suite that serves as the backbone for Customer Service, Accountants, business management, and production teams, enhancing efficiency across the company. Colleagues' feature requests shape the suite in real-time, creating a gratifying feedback loop that drives continuous innovation.
