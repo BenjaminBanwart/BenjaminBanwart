@@ -2,7 +2,7 @@
 
 **`Software Engineer (Front-End/Back-End/Database)`**
 
-Full-stack software engineer with a strong background in web development and a history of working in the eCommerce landscape. Currently employed at Miller's Professional Imaging/Mpix as one of two engineers responsible for tooling.
+Full-stack software engineer with a background in web development and a history of working in the eCommerce landscape. Currently employed at Miller's Professional Imaging/Mpix as one of two engineers responsible for tooling.
 
 At Miller's, I actively contribute to various projects, including the development and maintenance of internal applications for efficient order entry, data processing, workplace-shared business APIs, and automated email reporting applications. My greatest responsibilities lie in developing/maintaining the full stack of modern web applications that comprise an ever-growing tooling suite. I work with .NET, TypeScript, Angular, React, and MS SQL.
 
