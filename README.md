@@ -2,7 +2,7 @@
 
 **`Software Engineer (Front-End/Back-End/Database)`**
 
-Full-Stack software & DevOps Engineer delivering high-impact, business-critical solutions for eCommerce businesses. Currently a developer at Miller's Professional Imaging/Mpix, where I manage end-to-end development and deployment of internal applications and oversee our Kubernetes-based DevOps infrastructure.
+Full-Stack Software & DevOps Engineer delivering high-impact, business-critical solutions for eCommerce businesses. Currently a developer at Miller's Professional Imaging/Mpix, where I manage end-to-end development and deployment of internal applications and oversee our Kubernetes-based DevOps infrastructure.
 
 At Miller’s, I architect and maintain a full suite of modern web applications—tools essential for seamless order processing, data handling, cross-departmental API integration, and automated reporting. My toolkit includes .NET, TypeScript, Angular, React, MS SQL, and Kubernetes, empowering me to build dynamic, reliable, and scalable software that supports multiple business functions.
 
