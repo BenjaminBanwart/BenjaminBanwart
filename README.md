@@ -2,11 +2,11 @@
 
 **`Software Engineer (Front-End/Back-End/Database)`**
 
-Full-stack software engineer with a background in web development and a history of working in the eCommerce landscape. Currently employed at Miller's Professional Imaging/Mpix as one of two engineers responsible for tooling.
+Full-Stack software & DevOps Engineer delivering high-impact, business-critical solutions for eCommerce businesses. Currently a developer at Miller's Professional Imaging/Mpix, where I manage end-to-end development and deployment of internal applications and oversee our Kubernetes-based DevOps infrastructure.
 
-At Miller's, I actively contribute to various projects, including the development and maintenance of internal applications for efficient order entry, data processing, workplace-shared business APIs, and automated email reporting applications. My greatest responsibilities lie in developing/maintaining the full stack of modern web applications that comprise an ever-growing tooling suite. I work with .NET, TypeScript, Angular, React, and MS SQL.
+At Miller’s, I architect and maintain a full suite of modern web applications—tools essential for seamless order processing, data handling, cross-departmental API integration, and automated reporting. My toolkit includes .NET, TypeScript, Angular, React, MS SQL, and Kubernetes, empowering me to build dynamic, reliable, and scalable software that supports multiple business functions.
 
-One of the most notable projects in my career has been spearheading the development of Miller's internal tooling suite. Collaborating with another developer, we modernized disparate tools into a web-based suite that serves as the backbone for Customer Service, Accountants, business management, and production teams, enhancing efficiency across the company. Colleagues' feature requests shape the suite in real-time, creating a gratifying feedback loop that drives continuous innovation.
+A career highlight has been leading the transformation of Miller’s internal tooling suite into a cohesive, web-based platform, widely used across Customer Service, Accounting, Management, and Production teams.
 
 ---
 
@@ -22,6 +22,7 @@ One of the most notable projects in my career has been spearheading the developm
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Microsoft Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
