@@ -1,4 +1,4 @@
-#  🕹️ Benjamin Banwart
+#  🏞️ Benjamin Banwart
 
 **`Software Engineer (Front-End/Back-End/Database)`**
 
@@ -6,7 +6,7 @@ Full-Stack Software & DevOps Engineer delivering high-impact, business-critical 
 
 At Miller’s, I architect and maintain a full suite of modern web applications—tools essential for seamless order processing, data handling, cross-departmental API integration, and automated reporting. My toolkit includes .NET, TypeScript, Angular, React, MS SQL, and Kubernetes, empowering me to build dynamic, reliable, and scalable software that supports multiple business functions.
 
-A career highlight has been leading the transformation of Miller’s internal tooling suite into a cohesive, web-based platform, widely used across Customer Service, Accounting, Management, and Production teams.
+A career highlight has been leading the transformation of Miller’s various internal tools into a single cohesive, web-based platform, widely used across Customer Service, Accounting, Management, and Production teams.
 
 ---
 
