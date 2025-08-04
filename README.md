@@ -32,6 +32,6 @@ A career highlight of mine has been leading the transformation of Miller’s var
 #
 
 <a href="https://benjaminbanwart.github.io/Personal_Portfolio/" style="padding-top:30px;">
-<img align="left" alt="Flask" width="40px" src="https://github.com/BenjaminBanwart/Personal_Portfolio/blob/main/assets/images/icon/favicon.ico" />
+<img align="left" alt="Flask" width="40px" src="https://github.com/BenjaminBanwart/Personal_Portfolio/blob/main/assets/images/icon/web-app-manifest-192x192.png" />
 Personal website
 </a>
