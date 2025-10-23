@@ -1,8 +1,8 @@
 #  🏞️ Benjamin Banwart
 
-**`Software Engineer (Front-End/Back-End/Database)`**
+**`Software Engineer (Front-End/Back-End/Database/Infrastructure)`**
 
-Full-Stack Software & DevOps Engineer delivering high-impact, business-critical solutions for eCommerce businesses. Currently a developer at Miller's Professional Imaging/Mpix, where I manage end-to-end development and deployment of internal applications and oversee our Kubernetes-based DevOps infrastructure.
+Multiple product owner delivering high-impact, business-critical solutions for eCommerce businesses. Currently working with Miller's Professional Imaging/Mpix, where I manage end-to-end development and deployment of application suites and oversee our Kubernetes-based DevOps infrastructure.
 
 ---
 
