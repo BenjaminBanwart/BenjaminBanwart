@@ -2,7 +2,7 @@
 
 **`Software Engineer (Front-End/Back-End/Database/Infrastructure)`**
 
-Multiple product owner delivering high-impact, business-critical solutions for eCommerce businesses. Currently working with Miller's Professional Imaging/Mpix, where I manage end-to-end development and deployment of application suites and oversee our Kubernetes-based DevOps infrastructure.
+I’m a platform-focused Software Engineer with a strong emphasis on Kubernetes infrastructure, internal tooling, and production reliability. I build and operate systems that support business-critical workflows, reduce operational friction, and enable engineering teams to ship confidently at scale.
 
 ---
 
@@ -27,7 +27,7 @@ Multiple product owner delivering high-impact, business-critical solutions for e
 
 #
 
-<a href="https://benjaminbanwart.github.io/Personal_Portfolio/" style="padding-top:30px;">
+<a href="https://benjibanwart.dev/" style="padding-top:30px;">
 <img align="left" alt="Flask" width="40px" src="https://github.com/BenjaminBanwart/Personal_Portfolio/blob/main/assets/images/icon/web-app-manifest-192x192.png" />
-Personal website
+https://benjibanwart.dev/
 </a>
