@@ -28,6 +28,5 @@ I’m a platform-focused Software Engineer with a strong emphasis on Kubernetes 
 #
 
 <a href="https://benjibanwart.dev/" style="padding-top:30px;">
-<img align="left" alt="Flask" width="40px" src="https://github.com/BenjaminBanwart/Personal_Portfolio/blob/main/assets/images/icon/web-app-manifest-192x192.png" />
 https://benjibanwart.dev/
 </a>
