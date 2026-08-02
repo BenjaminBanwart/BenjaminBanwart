@@ -1,4 +1,4 @@
-#  🏞️ Benjamin Banwart
+#  🏞️ Benji Banwart
 
 **`Software Engineer (Front-End/Back-End/Database/Infrastructure)`**
 
