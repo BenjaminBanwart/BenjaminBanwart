@@ -50,16 +50,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenjaminBanwart&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminBanwart&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
   <a href="https://benjibanwart.dev">🌐 benjibanwart.dev</a> · 
   <a href="https://linkedin.com/in/benjamin-banwart-490736224">💼 LinkedIn</a>
 </p>
