@@ -1,6 +1,6 @@
 # Hey, I'm Benji 👋
 
-**Platform engineer who automates all the things.** I build and operate Kubernetes infrastructure, internal tooling, and production systems. When I'm not wrangling clusters, I'm building AI agents and open-source tools that make engineering teams ship faster.
+Platform engineer who automates all the things. I build and operate Kubernetes infrastructure, internal tooling, and production systems. When I'm not wrangling clusters, I'm building AI agents and open-source tools that make engineering teams ship faster.
 
 ---
 
