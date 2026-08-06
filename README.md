@@ -1,6 +1,6 @@
 # Hey, I'm Benji 👋
 
-**Platform engineer who automates all the things.** I build and operate Kubernetes infrastructure, internal tooling, and production systems at [Miller's Professional Imaging](https://github.com/Millers-IT). When I'm not wrangling clusters, I'm building AI agents and open-source tools that make engineering teams ship faster.
+**Platform engineer who automates all the things.** I build and operate Kubernetes infrastructure, internal tooling, and production systems. When I'm not wrangling clusters, I'm building AI agents and open-source tools that make engineering teams ship faster.
 
 ---
 
@@ -45,7 +45,7 @@
 - 🤖 Building AI agents for business and for fun
 - ☸️ Engineering Kubernetes platforms
 - 🔧 Automating things
-- ☕ Mass consuming mass amounts of coffee
+- ☕ Consuming mass amounts of coffee
 
 ---
 
